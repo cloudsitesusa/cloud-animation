@@ -102,7 +102,7 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 0.00,
 	manifest: [
-		{src:"images/cloud-top-rt.svg", id:"cloud_top_rt_atlas_1"}
+		{src:"images/cloud-top-rt.png", id:"cloud_top_rt_atlas_1"}
 	],
 	preloads: []
 };
